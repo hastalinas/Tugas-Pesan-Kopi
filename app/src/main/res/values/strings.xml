@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="edittext_loc">Lokasi Anda</string>
+    <string name="button_loc">Buka Maps</string>
+</resources>
